@@ -173,4 +173,3 @@ void CHamming(char *bdc, char *bch, int nch){
 // cd /mnt/c/users/nintendoxs/desktop/hamming
 
 //Cesar Heber Arambula Bautista
-//ingpuebla@gmail.com
